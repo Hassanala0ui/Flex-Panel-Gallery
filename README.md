@@ -1,6 +1,6 @@
 # Flex Panel Gallery
 
-Ce projet est une galerie d'images interactive réalisée avec HTML, CSS (Flexbox) et JavaScript. Il s'agit d'un exercice du challenge JavaScript30 (Jour 5) proposé par Wes Bos.
+Ce projet est une galerie d'images interactive réalisée avec HTML, CSS (Flexbox) et JavaScript.
 
 ## Fonctionnalités
 
